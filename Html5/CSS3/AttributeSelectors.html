@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="AttributeSelectors.css" rel="stylesheet" />
+    <title>Attribute Selectors</title>
+</head>
+<body>
+    <h1>Attribute Selectors</h1>
+    <p>Thisi is a paragraph without the title attribute</p>
+    <p title="second">
+        p[title] selects all paragraphs containing the word, paragraph
+    </p>
+    <p title="third paragraph">
+        p[title~="paragraph"] select all paragraphs with a title attribute containing the word, paragraph
+    </p>
+    <p title="forth paragraph">
+        p[title="#4 paragraph"] selects all paragraphs with a title attribute containing the exact text, #4 paragraph. Matches are case-sensetive and must match letter-for-letter including whitespace.
+    </p>
+    <p>
+        <a href="http://www.example.com" target="_blank">example 1</a>
+        <a href="http://www.example.com">example 2</a>
+    </p>
+    <p>
+        <input type="text" value="Name" />
+        <input type="button" value="Button" />
+    </p>
+</body>
+</html>

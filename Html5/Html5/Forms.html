@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Formlar</title>
+</head>
+<body>
+    <form action="/Home/Register" method="post">
+        <p>
+            Ad <input type="text" name="ad" placeholder="Adınızı Giriniz" value="" required />
+        </p>
+        <p>
+            Soyad <input type="text" name="soyad" placeholder="Soyadınızı Griniz" value="" required />
+        </p>
+        <p>
+            Email <input type="email" name="email" value="" required />
+        </p>
+        <p>
+            Password <input type="password" name="password" value="" required />
+        </p>
+        <p>
+            Beni Hatırla <input type="checkbox" name="benihatirla" value="" />
+        </p>
+        <p>
+            Erkek <input type="radio" name="cinsiyet" value="" />
+            Kadın <input type="radio" name="cinsiyet" value="" />
+        </p>
+        <p>
+            Hobiler <br />
+            Sinema <input type="checkbox" name="hobi" value="" />
+            Spor <input type="checkbox" name="hobi" value="" />
+            Kitap Okumak <input type="checkbox" name="hobi" value="" />
+        </p>
+        <p>
+            <select name="sehir">
+                <option value="value">Kocaeli</option>
+                <option>İstanbul</option>
+                <option>Ankara</option>
+            </select>
+        </p>
+        <p>
+            <select multiple name="sehirler">
+                <option value="value">Kocaeli</option>
+                <option value="value">İstanbul</option>
+                <option value="value">Ankara</option>
+            </select>
+        </p>
+        <input type="date" name="name" value="" />
+        <input type="month" name="name" value="" />
+        <input type="time" name="name" value="" />
+        <br /><br />
+        <input type="number" name="quantity" min="1" max="5" value="" />
+        <input type="number" name="quantity" min="0" max="100" step="10" value="30" />
+        <input type="color" name="name" value="" />
+        <br />
+        <br />
+        <input type="range" name="name" value="" />
+        <br />
+        <input type="submit" name="name" value="Kaydet" />
+        <input type="reset" name="name" value="Sıfırla" />
+    </form>
+</body>
+</html>

@@ -1,0 +1,27 @@
+﻿/*Pseudo Element*/
+p::first-line {
+    font-weight: bold;
+    color: brown;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+p.about::first-line {
+    color: green;
+}
+
+p::first-letter {
+    font-size: 48px;
+}
+
+p::after {
+    content: "-deneme";
+    display: block;
+    background-color: yellow;
+    padding: 10px;
+}
+
+/*Pseudo Class*/
+ul li:first-child {
+    background-color: red;
+}

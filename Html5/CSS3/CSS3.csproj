@@ -75,6 +75,7 @@
     <Content Include="GroupSelectors.html" />
     <Content Include="IDandClasses.html" />
     <Content Include="Internal-Css.html" />
+    <Content Include="PseudoSelectors.css" />
     <Content Include="PseudoSelectors.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="TodoList.css" />

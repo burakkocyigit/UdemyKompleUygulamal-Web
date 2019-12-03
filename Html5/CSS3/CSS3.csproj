@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="AttributeSelectors.css" />
     <Content Include="AttributeSelectors.html" />
+    <Content Include="CssInherits.html" />
     <Content Include="External-Css.html" />
     <Content Include="ExternalSheet.css" />
     <Content Include="GroupSelectors.css" />

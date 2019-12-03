@@ -82,6 +82,8 @@
     <Content Include="TodoList.css" />
     <Content Include="TodoList.html" />
     <Content Include="Uygluama-Calismasi-1.html" />
+    <Content Include="Uygulama-Selectors.css" />
+    <Content Include="Uygulama-Selectors.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

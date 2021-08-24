@@ -84,6 +84,12 @@
     <Content Include="Uygluama-Calismasi-1.html" />
     <Content Include="Uygulama-Selectors.css" />
     <Content Include="Uygulama-Selectors.html" />
+    <Content Include="Uygulamalar\Uygulama Divs\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Divs\Index.html" />
+    <Content Include="Uygulamalar\Uygulama Divs\Style.css" />
+    <Content Include="Uygulamalar\Uygulama Selectors\index.html" />
+    <Content Include="Uygulamalar\Uygulama Selectors\style.css" />
+    <Content Include="Uygulamalar\Uygulama Tablo Bicimlendirme\index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

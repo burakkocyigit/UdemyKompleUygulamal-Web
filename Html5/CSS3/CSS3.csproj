@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="AttributeSelectors.css" />
     <Content Include="AttributeSelectors.html" />
+    <Content Include="CssInherits.css" />
     <Content Include="CssInherits.html" />
     <Content Include="External-Css.html" />
     <Content Include="ExternalSheet.css" />
@@ -85,8 +86,21 @@
     <Content Include="Uygulama-Selectors.css" />
     <Content Include="Uygulama-Selectors.html" />
     <Content Include="Uygulamalar\Uygulama Divs\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Divs\After2\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Divs\After2\Index.html" />
+    <Content Include="Uygulamalar\Uygulama Divs\After2\Style.css" />
+    <Content Include="Uygulamalar\Uygulama Divs\After\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Divs\After\Index.html" />
+    <Content Include="Uygulamalar\Uygulama Divs\After\Style.css" />
+    <Content Include="Uygulamalar\Uygulama Divs\Before\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Divs\Before\Index.html" />
+    <Content Include="Uygulamalar\Uygulama Divs\Before\Style.css" />
     <Content Include="Uygulamalar\Uygulama Divs\Index.html" />
     <Content Include="Uygulamalar\Uygulama Divs\Style.css" />
+    <Content Include="Uygulamalar\Uygulama Positioning 2\91.jpg" />
+    <Content Include="Uygulamalar\Uygulama Positioning 2\Index.html" />
+    <Content Include="Uygulamalar\Uygulama Positioning 2\Style.css" />
+    <Content Include="Uygulamalar\Uygulama Positioning\index.html" />
     <Content Include="Uygulamalar\Uygulama Selectors\index.html" />
     <Content Include="Uygulamalar\Uygulama Selectors\style.css" />
     <Content Include="Uygulamalar\Uygulama Tablo Bicimlendirme\index.html" />
